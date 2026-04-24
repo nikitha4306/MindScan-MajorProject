@@ -1,1 +1,1 @@
-# MindScan-MajorProject
+# Stress-Anxiety-Depression-Detection
